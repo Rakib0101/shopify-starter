@@ -1,0 +1,14 @@
+{
+  "name": "shopify",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "tw": "npx tailwindcss -i ./assets/tailwind.css -o ./assets/style.css --watch"
+  },
+  "author": "Rakibul Islam",
+  "license": "ISC",
+  "devDependencies": {
+    "tailwindcss": "^3.4.4"
+  }
+}
